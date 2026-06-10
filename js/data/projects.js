@@ -1,8 +1,8 @@
 var soixanteprojects = [{
-      url: 'https://bjdbai.hubbusty.com/s/5de5f8eacbde1?subsource=DIABLO&ext_click_id=DIABLO&sub1=DIABLO',
+      url: 'https://www.effectivecpmnetwork.com/b3emvsszs0?key=24ac8f74b6b0941716fbfc37866447b0',
       type: 'internet'
 }, {
-      url: 'https://eooqz.lovelyglrl.com/?utm_source=da57dc555e50572d&ban=other&j5=1&j6=1&s1=15810&s2=2209620&click_id=diablo',
+      url: 'https://www.effectivecpmnetwork.com/ad1w33ifa?key=4674df618a373e1209af73eac3e26f9b',
       type: 'internet'
 }
 //{url:''},
