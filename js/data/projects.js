@@ -1,8 +1,8 @@
 var soixanteprojects = [{
-      url: 'https://omg10.com/4/8821538',
+      url: 'https://data527.click/3ac3b656afbed40db254/bb9c27283c/?placementName=dear',
       type: 'internet'
 }, {
-      url: 'https://omg10.com/4/8821538',
+      url: 'https://data527.click/3ac3b656afbed40db254/bb9c27283c/?placementName=dear',
       type: 'internet'
 }
 //{url:''},
