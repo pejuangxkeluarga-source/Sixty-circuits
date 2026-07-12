@@ -1,8 +1,8 @@
 var soixanteprojects = [{
-      url: 'https://omg10.com/4/8821538',
+      url: 'https://bjdbai.hubbusty.com/s/5de5f8eacbde1?subsource=DIABLO&ext_click_id=DIABLO&sub1=DIABLO',
       type: 'internet'
 }, {
-      url: 'https://omg10.com/4/8821538',
+      url: 'https://bjdbai.hubbusty.com/s/5de5f8eacbde1?subsource=DIABLO&ext_click_id=DIABLO&sub1=DIABLO',
       type: 'internet'
 }
 //{url:''},
